@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR2p0028/v1
+canonical_location: https://kanripo.org/bkk/KR2p0028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 郭店楚簡
+  identifiers:
+    krp: KR2p0028
+  tags:
+    kr-categories: KR2p
+    tls-internal:
+    - tr-en
+    - swl
+    tls-dates: dat08110
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0028_001.yaml, hash: 'sha256:ece8a92bd8eca88f8501917f2157d8f2ca91d5e3d62570be3014ef1b08991df3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0028_001.markers.yaml, hash: 'sha256:72d85bb3c6ac32b4fd3296f64a1ad917a0c3c710e73396a9208a79e7763aee72'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 755
+  label: ''
+  type: section
+  level: 1
+hash: sha256:b35c2eead8ab1a21dbd304791c0dfe7621e590c400c843f91de11b21e67e7448
+editions:
+- short: tls
