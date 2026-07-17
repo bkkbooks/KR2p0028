@@ -9,6 +9,7 @@ markers:
   - {type: punctuation, offset: 5, content: 。, id: KR2p0028_tls_001-bkkpn1}
   - {type: indent, offset: 5, content: 　, id: KR2p0028_tls_001-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR2p0028_tls_001-bkkpn2}
+  - {type: voice, offset: 5, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 6, content: w, id: KR2p0028_tls_001-bkkpn3}
   - {type: punctuation, offset: 6, content: r, id: KR2p0028_tls_001-bkkpn4}
   - {type: punctuation, offset: 6, content: i, id: KR2p0028_tls_001-bkkpn5}
@@ -28,6 +29,7 @@ markers:
   - {type: punctuation, offset: 10, content: ), id: KR2p0028_tls_001-bkkpn15}
   - {type: punctuation, offset: 10, content: ，, id: KR2p0028_tls_001-bkkpn16}
   - {type: 'tls:seg', offset: 10, content: '', id: KR2p0028_tls_001-2a.2}
+  - {type: voice, offset: 10, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 13, content: (, id: KR2p0028_tls_001-bkkpn17}
   - {type: punctuation, offset: 13, content: '?', id: KR2p0028_tls_001-bkkpn18}
   - {type: punctuation, offset: 13, content: ), id: KR2p0028_tls_001-bkkpn19}
@@ -36,6 +38,7 @@ markers:
   - {type: xml-element, offset: 13, content: '', id: KR2p0028_tls_001-bkkxmlele5, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.3, ed. Liu Zhao 2003, '}}
   - {type: page-break, offset: 13, content: '', id: KR2p0028_tls_001-3a}
   - {type: 'tls:seg', offset: 13, content: '', id: KR2p0028_tls_001-3a.1}
+  - {type: voice, offset: 13, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 17, content: ，, id: KR2p0028_tls_001-bkkpn21}
   - {type: 'tls:seg', offset: 17, content: '', id: KR2p0028_tls_001-3a.2}
   - {type: punctuation, offset: 21, content: ；, id: KR2p0028_tls_001-bkkpn22}
@@ -75,6 +78,7 @@ markers:
   - {type: xml-element, offset: 65, content: '', id: KR2p0028_tls_001-bkkxmlele9, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.5, ed. Liu Zhao 2003, '}}
   - {type: page-break, offset: 65, content: '', id: KR2p0028_tls_001-5a}
   - {type: 'tls:seg', offset: 65, content: '', id: KR2p0028_tls_001-5a.1}
+  - {type: voice, offset: 65, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 71, content: （, id: KR2p0028_tls_001-bkkpn42}
   - {type: punctuation, offset: 71, content: ？, id: KR2p0028_tls_001-bkkpn43}
   - {type: punctuation, offset: 71, content: ）, id: KR2p0028_tls_001-bkkpn44}
@@ -143,6 +147,7 @@ markers:
   - {type: xml-element, offset: 138, content: '', id: KR2p0028_tls_001-bkkxmlele23, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.11, ed. Liu Zhao 2003, '}}
   - {type: page-break, offset: 138, content: '', id: KR2p0028_tls_001-12a}
   - {type: 'tls:seg', offset: 138, content: '', id: KR2p0028_tls_001-12a.1}
+  - {type: voice, offset: 138, length: 0, name: note, id: n5}
   - {type: punctuation, offset: 143, content: 。, id: KR2p0028_tls_001-bkkpn71}
   - {type: xml-element, offset: 143, content: '', id: KR2p0028_tls_001-bkkxmlele24, name: p, role: close, attrs: {source: 'GUODIAN, YUCONG 1.11, ed. Liu Zhao 2003, '}}
   - {type: xml-element, offset: 143, content: '', id: KR2p0028_tls_001-bkkxmlele25, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.13, ed. Liu Zhao 2003, '}}
@@ -222,6 +227,7 @@ markers:
   - {type: punctuation, offset: 237, content: '?', id: KR2p0028_tls_001-bkkpn98}
   - {type: punctuation, offset: 237, content: ), id: KR2p0028_tls_001-bkkpn99}
   - {type: punctuation, offset: 237, content: /, id: KR2p0028_tls_001-bkkpn100}
+  - {type: voice, offset: 237, length: 0, name: note, id: n6}
   - {type: punctuation, offset: 239, content: ，, id: KR2p0028_tls_001-bkkpn101}
   - {type: 'tls:seg', offset: 239, content: '', id: KR2p0028_tls_001-21a.6}
   - {type: punctuation, offset: 241, content: (, id: KR2p0028_tls_001-bkkpn102}
@@ -232,6 +238,7 @@ markers:
   - {type: xml-element, offset: 241, content: '', id: KR2p0028_tls_001-bkkxmlele43, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.22, ed. Liu Zhao 2003, '}}
   - {type: page-break, offset: 241, content: '', id: KR2p0028_tls_001-22a}
   - {type: 'tls:seg', offset: 241, content: '', id: KR2p0028_tls_001-22a.1}
+  - {type: voice, offset: 241, length: 0, name: note, id: n7}
   - {type: punctuation, offset: 242, content: x, id: KR2p0028_tls_001-bkkpn106}
   - {type: punctuation, offset: 242, content: (, id: KR2p0028_tls_001-bkkpn107}
   - {type: punctuation, offset: 242, content: '?', id: KR2p0028_tls_001-bkkpn108}
@@ -241,6 +248,7 @@ markers:
   - {type: xml-element, offset: 242, content: '', id: KR2p0028_tls_001-bkkxmlele45, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.23, ed. Liu Zhao 2003, '}}
   - {type: page-break, offset: 242, content: '', id: KR2p0028_tls_001-23a}
   - {type: 'tls:seg', offset: 242, content: '', id: KR2p0028_tls_001-23a.1}
+  - {type: voice, offset: 242, length: 0, name: note, id: n8}
   - {type: punctuation, offset: 245, content: ，, id: KR2p0028_tls_001-bkkpn111}
   - {type: 'tls:seg', offset: 245, content: '', id: KR2p0028_tls_001-23a.2}
   - {type: punctuation, offset: 249, content: 。, id: KR2p0028_tls_001-bkkpn112}
@@ -322,6 +330,7 @@ markers:
   - {type: punctuation, offset: 360, content: ), id: KR2p0028_tls_001-bkkpn149}
   - {type: punctuation, offset: 360, content: 。, id: KR2p0028_tls_001-bkkpn150}
   - {type: 'tls:seg', offset: 360, content: '', id: KR2p0028_tls_001-28a.4}
+  - {type: voice, offset: 360, length: 0, name: note, id: n9}
   - {type: punctuation, offset: 362, content: /, id: KR2p0028_tls_001-bkkpn151}
   - {type: punctuation, offset: 364, content: ，, id: KR2p0028_tls_001-bkkpn152}
   - {type: 'tls:seg', offset: 364, content: '', id: KR2p0028_tls_001-28a.5}
@@ -564,6 +573,7 @@ markers:
   - {type: punctuation, offset: 627, content: (, id: KR2p0028_tls_001-bkkpn256}
   - {type: punctuation, offset: 627, content: '?', id: KR2p0028_tls_001-bkkpn257}
   - {type: punctuation, offset: 627, content: ), id: KR2p0028_tls_001-bkkpn258}
+  - {type: voice, offset: 627, length: 0, name: note, id: n10}
   - {type: punctuation, offset: 631, content: 。, id: KR2p0028_tls_001-bkkpn259}
   - {type: xml-element, offset: 631, content: '', id: KR2p0028_tls_001-bkkxmlele96, name: p, role: close, attrs: {source: 'GUODIAN, YUCONG 1.48, ed. Liu Zhao 2003, '}}
   - {type: xml-element, offset: 631, content: '', id: KR2p0028_tls_001-bkkxmlele97, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.49, ed. Liu Zhao 2003, '}}
@@ -573,6 +583,7 @@ markers:
   - {type: punctuation, offset: 632, content: o, id: KR2p0028_tls_001-bkkpn261}
   - {type: punctuation, offset: 632, content: r, id: KR2p0028_tls_001-bkkpn262}
   - {type: punctuation, offset: 632, content: ':', id: KR2p0028_tls_001-bkkpn263}
+  - {type: voice, offset: 632, length: 1, name: note, id: n11}
   - {type: punctuation, offset: 633, content: ), id: KR2p0028_tls_001-bkkpn264}
   - {type: punctuation, offset: 637, content: 。, id: KR2p0028_tls_001-bkkpn265}
   - {type: xml-element, offset: 637, content: '', id: KR2p0028_tls_001-bkkxmlele98, name: p, role: close, attrs: {source: 'GUODIAN, YUCONG 1.49, ed. Liu Zhao 2003, '}}
@@ -648,6 +659,7 @@ markers:
   - {type: punctuation, offset: 696, content: (, id: KR2p0028_tls_001-bkkpn288}
   - {type: punctuation, offset: 696, content: '?', id: KR2p0028_tls_001-bkkpn289}
   - {type: punctuation, offset: 696, content: ), id: KR2p0028_tls_001-bkkpn290}
+  - {type: voice, offset: 696, length: 0, name: note, id: n12}
   - {type: punctuation, offset: 699, content: 。, id: KR2p0028_tls_001-bkkpn291}
   - {type: xml-element, offset: 699, content: '', id: KR2p0028_tls_001-bkkxmlele118, name: p, role: close, attrs: {source: 'GUODIAN, YUCONG 1.59 ed. Liu Zhao 2003, '}}
   - {type: xml-element, offset: 699, content: '', id: KR2p0028_tls_001-bkkxmlele119, name: p, role: open, attrs: {source: 'GUODIAN, YUCONG 1.60, ed. Liu Zhao 2003, '}}
@@ -711,4 +723,4 @@ markers:
   - {type: punctuation, offset: 755, content: 。, id: KR2p0028_tls_001-bkkpn310}
   - {type: xml-element, offset: 755, content: '', id: KR2p0028_tls_001-bkkxmlele134, name: p, role: close, attrs: {source: 'GUODIAN, YUCONG 1.67, ed. Liu Zhao 2003, '}}
   back: []
-hash: sha256:e8fde185d6d7980c85400f7815f291c8a2ca56463bebec1d487ae3243d66739d
+hash: sha256:e86736947e5076785e5f55935f4dc64f3740335bd3690a0e9f5f8386334741f7
